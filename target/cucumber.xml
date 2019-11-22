@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="120.448759">
-<testcase classname="SLI Search" name="Test SLI Pages" time="120.448759">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="111.665567">
+<testcase classname="SLI Search" name="Test SLI Pages" time="111.665567">
 <system-out><![CDATA[Given Open the website URL..................................................passed
 Then enter a keyword to search..............................................passed
 ]]></system-out>

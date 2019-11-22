@@ -27,6 +27,8 @@ public class sli_search extends Set{
 	@Then("^enter a keyword to search\\.$")
 	public void enter_a_keyword_to_search() throws Throwable {
 		
+		driver.get("https://www.slideteam.net/");
+		Thread.sleep(3000);
 		  WebElement search_btn = wait.until(ExpectedConditions.elementToBeClickable(By.id("search")));
 		  Thread.sleep(2000);
 		  search_btn.sendKeys("HR"); 
@@ -82,7 +84,7 @@ public class sli_search extends Set{
 		  Thread.sleep(2000);
 		  
 		  driver.navigate().refresh(); 
-		  Thread.sleep(3800);
+		  Thread.sleep(5000);
 		 
 		driver.get("https://www.slidegeeks.com");
 		

@@ -5,12 +5,12 @@
       {
         "name": "Open the website URL.",
         "aggregatedDurations": {
-          "average": 2.4137801,
-          "median": 2.4137801
+          "average": 2.0759683,
+          "median": 2.0759683
         },
         "durations": [
           {
-            "duration": 2.4137801,
+            "duration": 2.0759683,
             "location": "src/test/java/Features/sli.search.feature:5"
           }
         ]
@@ -23,12 +23,12 @@
       {
         "name": "enter a keyword to search.",
         "aggregatedDurations": {
-          "average": 118.0349793,
-          "median": 118.0349793
+          "average": 109.5895988,
+          "median": 109.5895988
         },
         "durations": [
           {
-            "duration": 118.0349793,
+            "duration": 109.5895988,
             "location": "src/test/java/Features/sli.search.feature:6"
           }
         ]

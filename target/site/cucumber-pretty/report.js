@@ -34,14 +34,14 @@ formatter.match({
   "location": "sli_search.open_the_website_URL()"
 });
 formatter.result({
-  "duration": 2413780100,
+  "duration": 2075968300,
   "status": "passed"
 });
 formatter.match({
   "location": "sli_search.enter_a_keyword_to_search()"
 });
 formatter.result({
-  "duration": 118034979300,
+  "duration": 109589598800,
   "status": "passed"
 });
 });
